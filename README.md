@@ -1,6 +1,6 @@
-# Spring Boot CRUD [Example]
+# Spring Boot H2 CRUD [Example]
 
-Example code for Spring Boot CRUD.
+Example code for Spring Boot H2 CRUD.
 
 ## Run locally
 
