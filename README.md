@@ -1,10 +1,10 @@
 # Spring Boot H2 CRUD [Example]
 
-Example code for Spring Boot H2 CRUD.
+Spring Boot H2 CRUD
 
-## Run locally
+## Setup
 
-H2 properties are under `/resources/application.properties`.  
+H2 properties `/resources/application.properties`
 
 ```
 server.port=8080
@@ -21,7 +21,7 @@ spring.h2.console.enabled=true
 spring.h2.console.path=/h2
 ```
 
-Run the project in an IDE or by this command on the command line:
+Run locally
 
 ```
 mvn spring-boot:run
